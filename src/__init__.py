@@ -1,0 +1,3 @@
+"""
+drainer-sim package
+"""
